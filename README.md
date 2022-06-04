@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreHoeh
 - 👀 I’m interested in Game Development and Embedded Systems
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++
 
 
 <!---
