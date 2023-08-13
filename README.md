@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndreHoeh
+- 👋 Hi, I’m @AndreHoeh and this is my github page. A graveyard for things I'll never use again but once thought are really smart. 
 - 👀 I’m interested in Game Development and Embedded Systems
 - 🌱 I’m currently learning C++
 
